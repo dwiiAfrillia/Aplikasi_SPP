@@ -1,7 +1,7 @@
 # AplikasiSPP-CI4
 
 Aplikasi ini dikembangan dengan menggunakan :
-PHP Versi 8.0.9
+PHP Versi 8.0.25
 PHP Framework CodeIgniter 4.0.5
 MySQL 14.14
 
